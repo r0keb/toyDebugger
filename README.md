@@ -48,6 +48,7 @@ PVOID pGlobalFuncAddress = NULL;
 
 // target.exe entry address
 PVOID pGlobalEntryImageAddress = NULL;
+...
 ````
 
 We only have to execute the debugger with the target images as the first argument.
