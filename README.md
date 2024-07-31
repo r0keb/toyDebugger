@@ -52,6 +52,7 @@ PVOID pGlobalEntryImageAddress = NULL;
 ````
 
 We only have to execute the debugger with the target images as the first argument.
+
 Here is the output:
 ````
 C:\tmp\toyDebugger\toyDebugger\Debug>toydebugger.exe C:\tmp\toyDebugger\2Debug\Debug\2debug.exe
