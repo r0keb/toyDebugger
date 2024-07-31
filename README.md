@@ -51,7 +51,7 @@ PVOID pGlobalEntryImageAddress = NULL;
 ...
 ````
 
-We only have to execute the debugger with the target images as the first argument.
+We only have to execute the debugger with the target image file as the first argument.
 
 Here is the output:
 ````
